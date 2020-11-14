@@ -1,0 +1,10 @@
+#include<iostream>
+using namespace std;
+int main()
+  {
+    int a=22/7,b,c;
+    cout<<"Enter the radius\n";
+    cin>>b;
+    c=b*b*a;
+    cout<<"Area="<<c;
+  }
